@@ -1,7 +1,7 @@
 # FMCG-Commercial-Performance-Dashboard
 This project demonstrates how FMCG sales, budget, and promotional data can be transformed into insights for decision-making using Power BI. The dashboard focuses on revenue growth, margin drivers, promotional effectiveness, and scenario-based forecasting.
 
-**Business Questions Addressed**
+**Business Questions Addressed**:
 How is revenue and margin performance evolving over time versus budget?
 Which products and channels are most affected by promotions?
 Where does the business generate volume versus profitability?
