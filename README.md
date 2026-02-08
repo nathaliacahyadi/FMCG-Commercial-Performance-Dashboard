@@ -34,7 +34,7 @@ Scenario-based revenue forecasting (Conservative, Base, Optimistic) using transp
 - Scenario analysis shows how modest changes in growth assumptions materially affect revenue outlook.
 
 **Tools & Skills Used**
--Power BI (data modeling, DAX, interactive dashboards)
--DAX (KPIs, margin calculations, scenario logic)
--Commercial analytics & FP&A concepts (budgeting, margin analysis, promotional impact)
--Data modeling (star schema, fact/dimension tables)
+- Power BI (data modeling, DAX, interactive dashboards)
+- DAX (KPIs, margin calculations, scenario logic)
+- Commercial analytics & FP&A concepts (budgeting, margin analysis, promotional impact)
+- Data modeling (star schema, fact/dimension tables)
