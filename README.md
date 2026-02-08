@@ -6,6 +6,7 @@ This project demonstrates how FMCG sales, budget, and promotional data can be tr
 - Which products and channels are most affected by promotions?
 - Where does the business generate volume versus profitability?
 - How could revenue change under different growth assumptions?
+  
 
 **Dashboard Structure**
 
@@ -24,6 +25,7 @@ Comparison of revenue and post-promotion margin across channels (Grocery Retail,
 *Page 4 — Forecast & Scenario Analysis*
 
 Scenario-based revenue forecasting (Conservative, Base, Optimistic) using transparent growth assumptions to support planning discussions.
+
 
 **Key Insights**
 - Promotional activity impacts products unevenly: some categories absorb promotions with minimal margin erosion.
